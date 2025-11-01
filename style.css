@@ -1,0 +1,37 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #1a1a1a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+  background: #ffffff1b;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(0, 234, 255, 1);
+;
+}
+
+button {
+  border: none;
+  outline: none;
+}
+
+h1{
+  color: #00eaff;
+}
+
+#countdown {
+  font-size: 2em;
+  margin-top: 20px;
+  color: #02eaff;
+}
+
+#countdown span {
+  font-weight: bold;
+}
